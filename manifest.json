@@ -1,0 +1,39 @@
+{
+    "name":"PWA",
+    "short_name":"pwa",
+    "star_url":"./PaginaPrincipal.html",
+    "scope":"./",
+    "display":"standalone",
+    "backgroud_color":"#ffffff",
+    "theme_color":"#dddddd",
+    "description":"Mi primera PWA",
+    "dir":"ltr",
+    "lamg":"es-Mx",
+    "orirntation":"portraint-primary",
+
+    "icons":[
+        {
+            "src":".img/icono.jpg",
+            "sizes":"1300x1300",
+            "type":"image/jpg"
+        },
+        {
+            "src":".img/icono_l.jpg",
+            "sizes":"2566x256",
+            "type":"image/jpg"
+        },
+        
+        {
+            "src":".img/icono_m.jpg",
+            "sizes":"128x128",
+            "type":"image/jpg"
+        },
+        
+        {
+            "src":".img/icono_s.jpg",
+            "sizes":"96x96",
+            "type":"image/jpg"
+        }
+    ]
+
+}
